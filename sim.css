@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    background-image: linear-gradient(to left, #252327, #d9fdf8fb );
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 22px;
+    border: 2px #6f7e8a solid;
+    padding: 5px;
+    margin: 0px 0px 12px -5px;
+}
+
+.mensalidade {
+    display: inline-block;
+    padding: 15px 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 32px;
+    border: 2px #6f7e8a solid;
+    margin: 0px 0px 12px -5px;
+}
+
+.cliente{
+    display: inline-block;
+    padding: 15px 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 32px;
+    border: 2px #6f7e8a solid;
+    margin: 0px 0px 12px -5px;
+}
+
+.button {
+    display: inline-block;
+    padding: 20px 1px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 22px;
+    border: 2px #6f7e8a solid;
+    padding: 5px;
+    margin: 0px 0px 12px -5px;
+}
+
+.button:hover {
+    background-color: #454545;
+}
+
+img {
+    border: 0px solid rgb(9, 233, 203);
+    border-radius: 10px;
+
+}
